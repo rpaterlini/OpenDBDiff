@@ -604,7 +604,7 @@ namespace OpenDBDiff.Front
             // toolLblProjectType
             // 
             this.toolLblProjectType.Name = "toolLblProjectType";
-            this.toolLblProjectType.Size = new System.Drawing.Size(76, 22);
+            this.toolLblProjectType.Size = new System.Drawing.Size(75, 22);
             this.toolLblProjectType.Text = "Project Type:";
             // 
             // toolProjectTypes
